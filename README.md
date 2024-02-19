@@ -1,5 +1,5 @@
 
-<h1 align="center">Tool-X v2.0</h1>
+<h1 align="center">Tool-X</h1>
 <p align="center">
        Tool-X is a kali linux hacking tool installer.
 </p>
@@ -43,7 +43,7 @@ Open the termux app and type following commands.
 
 * `pkg install git`
 
-* `git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `git clone https://github.com/officialcyberxd/Tool-X.git`
 
 * `cd Tool-X`
 
@@ -67,7 +67,7 @@ Open the GNURoot Debian app and type following commands.
 
 * `apt install git`
 
-* `cd && git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `cd && git clone https://github.com/officialcyberxd/Tool-X.git`
 
 * `cd Tool-X`
 
@@ -89,7 +89,7 @@ Now type Tool-X from anywhare in your terminal to open Tool-X. But use this tool
 
 * `sudo apt-get install git`
 
-* `sudo git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `sudo git clone https://github.com/officialcyberxd/Tool-X.git`
 
 * `cd Tool-X`
 
