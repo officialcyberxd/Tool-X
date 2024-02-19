@@ -1,6 +1,6 @@
-# Tool Name :- Tool-X
-# Author :- Rajkumar dusad
-# Date :- 1/11/2017
+# Tool Name :- Tool-xD
+# Author :- Team Cyber xD
+# Date :- 20/2/2024
 # Powered By :- Aex Software's
 
 import os
